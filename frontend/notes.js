@@ -1,4 +1,4 @@
-const url = "https://render.com/docs/web-services#port-binding";
+const url = "https://iterate-ai-assignment.onrender.com";
 const noteToken = localStorage.getItem("noteToken");
 
 if (!noteToken) {
